@@ -3,15 +3,7 @@
 **Full Stack Developer** — building scalable web and mobile applications with modern technologies.
 
 ---
-
-## About Me
-
-I am a full stack developer with a strong background in systems programming, having completed the [42 Paris](https://42.fr) curriculum. I combine low-level C/C++ expertise with modern web development using React, Next.js, Node.js, and Django.
-
-- Based in Adana, Turkey
-- Student at 42 Paris (2023–2026) & Anadolu University (Computer Engineering, 2023–)
-- Open to remote opportunities
-
+-... . -. / -.-- .- .--. .- .-. .. --
 ---
 
 ## Tech Stack
