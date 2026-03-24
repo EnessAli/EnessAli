@@ -39,7 +39,7 @@ I am a full stack developer with a strong background in systems programming, hav
 |---------|-------------|-------|
 | [depoin-vendor-app](https://github.com/EnessAli/depoin-vendor-app) | Flutter vendor panel for Depoin e-commerce marketplace | Flutter · Riverpod · Dio · GoRouter |
 | [depoin-customer](https://github.com/EnessAli/depoin-customer) | Flutter customer app for Depoin marketplace with Firebase push notifications | Flutter · Firebase · Riverpod · GoRouter |
-| [multiplayer-pong-platform](https://github.com/EnessAli/multiplayer-pong-platform) | Real-time multiplayer Pong with 2FA, live chat, tournament system | Django · TypeScript · WebSocket · Docker |
+| [multiplayer-pong](https://github.com/EnessAli/multiplayer-pong) | Real-time multiplayer Pong with 2FA, live chat, tournament system | Django · TypeScript · WebSocket · Docker |
 | [rfc1459-irc-server](https://github.com/EnessAli/rfc1459-irc-server) | RFC 1459 compliant IRC server with full channel/operator support | C++98 · BSD Sockets · poll() |
 | [bash-interpreter](https://github.com/EnessAli/bash-interpreter) | POSIX shell with pipes, redirections, heredoc, and signal handling | C · Readline · AST |
 | [dda-raycaster](https://github.com/EnessAli/dda-raycaster) | Wolfenstein-3D style renderer using DDA ray casting | C · MiniLibX · Math |
