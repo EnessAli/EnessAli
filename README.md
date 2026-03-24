@@ -37,6 +37,8 @@ I am a full stack developer with a strong background in systems programming, hav
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [depoin-vendor-app](https://github.com/EnessAli/depoin-vendor-app) | Flutter vendor panel for Depoin e-commerce marketplace | Flutter · Riverpod · Dio · GoRouter |
+| [depoin-customer](https://github.com/EnessAli/depoin-customer) | Flutter customer app for Depoin marketplace with Firebase push notifications | Flutter · Firebase · Riverpod · GoRouter |
 | [multiplayer-pong-platform](https://github.com/EnessAli/multiplayer-pong-platform) | Real-time multiplayer Pong with 2FA, live chat, tournament system | Django · TypeScript · WebSocket · Docker |
 | [rfc1459-irc-server](https://github.com/EnessAli/rfc1459-irc-server) | RFC 1459 compliant IRC server with full channel/operator support | C++98 · BSD Sockets · poll() |
 | [bash-interpreter](https://github.com/EnessAli/bash-interpreter) | POSIX shell with pipes, redirections, heredoc, and signal handling | C · Readline · AST |
@@ -46,13 +48,5 @@ I am a full stack developer with a strong background in systems programming, hav
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=EnessAli&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnessAli&theme=github_dark&hide_border=true&layout=compact&langs_count=8)
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-ali-germen-51173b206/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EnessAli)
-
